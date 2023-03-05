@@ -1,5 +1,13 @@
 # GStreamer
 
+## Testing
+
+### Unit testing with check
+
+* Docs: https://gstreamer.freedesktop.org/documentation/check/index.html?gi-language=c
+* Example on stackoverflow: https://stackoverflow.com/a/32145704/1390927
+
+
 ## Tutorials
 
 ### C
