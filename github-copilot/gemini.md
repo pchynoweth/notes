@@ -29,7 +29,6 @@
 - May provide multiple alternative solutions without clear recommendation
 - Sometimes mixes different coding styles in the same response
 - Can be overly enthusiastic about suggesting new features
-- Occasionally provides outdated package versions
 
 ## Best Prompt Style
 

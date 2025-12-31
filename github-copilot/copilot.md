@@ -25,7 +25,7 @@ GitHub Copilot is an AI-powered code completion tool that integrates directly in
 ## Weaknesses
 
 - **Limited reasoning** - Not designed for complex problem-solving
-- **No conversation** - Traditional Copilot doesn't have chat context
+- **No conversation in inline mode** - Traditional inline completions don't have chat context (use Copilot Chat for conversations)
 - **Security concerns** - May suggest vulnerable code patterns
 - **License issues** - Trained on public code (some with licenses)
 - **Outdated patterns** - May suggest older approaches
