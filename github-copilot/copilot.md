@@ -6,9 +6,10 @@ GitHub Copilot is an AI-powered code completion tool that integrates directly in
 
 ## Model Backend
 
-- Uses OpenAI Codex (GPT-based)
+- Powered by OpenAI models (Codex/GPT-based)
 - Trained specifically on code from public repositories
 - Optimized for code completion rather than chat
+- Note: The underlying models may evolve over time
 
 ## Strengths
 

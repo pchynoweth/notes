@@ -10,7 +10,7 @@
 
 - **Excellent reasoning abilities** - Strong at breaking down complex problems
 - **Code understanding** - Great at analyzing existing code and suggesting improvements
-- **Long context window** - Can handle large codebases (up to 200K tokens)
+- **Long context window** - Can handle large codebases (very large context, varies by model version)
 - **Safety and helpfulness** - Tends to provide thoughtful, well-explained answers
 - **Multi-step tasks** - Excellent at following complex, multi-step instructions
 - **Documentation** - Very good at writing clear, detailed documentation

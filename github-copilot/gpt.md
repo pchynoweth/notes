@@ -2,7 +2,7 @@
 
 ## Model Variants
 
-- **GPT-4 Turbo** - Most capable, latest features
+- **GPT-4 Turbo** - Most capable, larger context window and improved performance
 - **GPT-4** - Strong reasoning and code generation
 - **GPT-3.5 Turbo** - Faster, more cost-effective
 - **o1** - Advanced reasoning model

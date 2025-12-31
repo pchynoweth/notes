@@ -22,6 +22,7 @@
 - **Complex refactoring** - May struggle with large-scale code refactoring
 - **Verbose** - Can be overly detailed in explanations
 - **Edge cases** - Sometimes misses edge cases in code generation
+- **Package versions** - Occasionally provides outdated package versions (verify versions)
 
 ## Quirks
 
